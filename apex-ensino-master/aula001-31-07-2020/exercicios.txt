@@ -1,0 +1,34 @@
+Exercícios
+
+1. Escreva uma função que receba a altura e o peso de uma pessoa, e com essas informações faça o cálculo do IMC. A fórmula para cálculo do IMC de uma pessoa é a seguinte: IMC = peso/(altura * 2)
+2. Escreva uma função que receba um número randômico de 1 a 100. Imprima no terminal se o número é par ou impar.
+3. Escreva uma função que receba uma lista de números, e retorne outra lista com o quadrado desses números.
+4. Escreva uma função que receba uma lista com 5 notas de um competidor Essa função irá calcular a média de pontos desse competidor, porém irá excluir a maior e menor notas.
+5. Escreva uma função que receba uma lista de itens (cada item sendo um dicionário).
+
+
+* Listas
+append()	Adds an element at the end of the list
+clear()	Removes all the elements from the list
+copy()	Returns a copy of the list
+count()	Returns the number of elements with the specified value
+extend()	Add the elements of a list (or any iterable), to the end of the current list
+index()	Returns the index of the first element with the specified value
+insert()	Adds an element at the specified position
+pop()	Removes the element at the specified position
+remove()	Removes the first item with the specified value
+reverse()	Reverses the order of the list
+sort()	Sorts the list
+
+* Dicionários
+clear()	Removes all the elements from the dictionary
+copy()	Returns a copy of the dictionary
+fromkeys()	Returns a dictionary with the specified keys and value
+get()	Returns the value of the specified key
+items()	Returns a list containing a tuple for each key value pair
+keys()	Returns a list containing the dictionary's keys
+pop()	Removes the element with the specified key
+popitem()	Removes the last inserted key-value pair
+setdefault()	Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
+update()	Updates the dictionary with the specified key-value pairs
+values()	Returns a list of all the values in the dictionary
